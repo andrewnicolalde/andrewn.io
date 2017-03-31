@@ -18,6 +18,7 @@ email: Andrew.Nicolalde.2016@live.rhul.ac.uk
 description: First year Computer Science student at Royal Holloway, University of London
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: andnicolalde
 github_username:  andrewnicolalde
 
 # Build settings
