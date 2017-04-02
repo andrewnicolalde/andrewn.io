@@ -6,6 +6,8 @@ permalink: /about/
 Hello!
 
 # About Me
+![Me infront of Founders Hall at Royal Holloway](../resources/andrewnco/images/About.jpg)
+
 I am a first year Computer Science student studying at Royal Holloway,
 University of London. My interests include Information Security, Web
 Development, Aviation, and without a doubt good food! 
