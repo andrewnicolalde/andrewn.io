@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: AndrewN.co
 email: Andrew.Nicolalde.2016@live.rhul.ac.uk
-description: Andrew Nicolalde, First year Computer Science student at Royal Holloway, University of London
+description: Andrew Nicolalde, lover of all things computing, First year Computer Science student at Royal Holloway, University of London
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: andnicolalde
