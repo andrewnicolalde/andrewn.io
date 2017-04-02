@@ -9,13 +9,15 @@ Hello!
 ![Me infront of Founders Hall at Royal Holloway](../resources/andrewnco/images/About.jpg)
 
 I am a first year Computer Science student studying at Royal Holloway,
-University of London. My interests include Information Security, Web
-Development, Aviation, and without a doubt good food! 
+University of London. My interests and passions include Information Security,
+Web Development, Aviation, and without a doubt good food!
 
 # About This Website
 This website is hosted using GitHub Pages, and was created using Jekyll, as
-countless other websites are. I'll be adding some more to this section soon, so
-feel free to check up on it!
+countless other websites are. Its source code is
+available [here.](https://github.com/andrewnicolalde/andrewnicolalde.github.io)
+
+I'll be adding some more to this section soon, so feel free to check up on it!
 
 # Acknowledgments
 
