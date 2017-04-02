@@ -16,3 +16,7 @@ Development, Aviation, and without a doubt good food!
 This website is hosted using GitHub Pages, and was created using Jekyll, as
 countless other websites are. I'll be adding some more to this section soon, so
 feel free to check up on it!
+
+# Acknowledgments
+
+[LinkedIn icon from SimpleIcon](http://www.flaticon.com/authors/simpleicon)
