@@ -6,7 +6,7 @@ permalink: /about/
 Hello!
 
 # About Me
-![My girlfriend and me infront of Founders Hall at Royal Holloway](../resources/andrewn.co/images/About.jpg)
+![My girlfriend and me just before the Summer Ball around the end of our first year at university](../resources/andrewn.co/images/About.png)
 
 I am a first year Computer Science student studying at Royal Holloway,
 University of London. My interests and passions include Information Security,
