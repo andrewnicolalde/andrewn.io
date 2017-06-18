@@ -12,6 +12,7 @@ I am a first year Computer Science student studying at Royal Holloway,
 University of London. My interests and passions include Information Security,
 Web Development, Aviation, and without a doubt good food!
 
+# Résumé / CV
 [I've written my résumé in markdown](https://github.com/andrewnicolalde/pandoc_resume), forked from [mszep's pandoc_resume.](https://github.com/mszep/pandoc_resume)
 
 [You can download a PDF version of my résumé here.](https://github.com/andrewnicolalde/pandoc_resume/blob/master/resume.pdf)
