@@ -8,4 +8,4 @@ permalink: /projects/
 
 Right now I'm trying my hand at the C++ programming language.
 
-I'm also working on creating a new website for an engineering consulting firm. I'll link to it once the work is complete.
+I'm also working on creating a new website for an engineering consulting firm. It's preview version is available at https://andrewnicolalde.github.io/CPS-ENG/
