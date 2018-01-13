@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/andrewnicolalde
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://andrewn.io
+  * I am andrewnicolalde (https://keybase.io/andrewnicolalde) on keybase.
+  * I have a public key ASA7IO_8-sUqkfGWYXl9haVsd8pKJ0GsouktNNk6YuOW_go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203b20effcfac52a91f19661797d85a56c77ca4a2741aca2e92d34d93a62e396fe0a",
+      "host": "keybase.io",
+      "kid": "01203b20effcfac52a91f19661797d85a56c77ca4a2741aca2e92d34d93a62e396fe0a",
+      "uid": "6deb58d452b4991c08ecef6fa3dc6719",
+      "username": "andrewnicolalde"
+    },
+    "merkle_root": {
+      "ctime": 1515857518,
+      "hash": "22b62a378fe15d1cb0a5488dd40f043d98790c846184df7d8ef6ee216a2a77f64e6887e25bfba84d76f34c11a4403577fa5c7defd9bbb30dda6695086e84690f",
+      "hash_meta": "53471eb79b514847abee8b84c8dfd4b5f464ccfeb38105704426962f6b02a0ce",
+      "seqno": 1923046
+    },
+    "service": {
+      "hostname": "andrewn.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1515857548,
+  "expire_in": 504576000,
+  "prev": "0200524497fd07849405bd928f8d87579932c83a2e1e4fda93eb7403b3033547",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOyDv/PrFKpHxlmF5fYWlbHfKSidBrKLpLTTZOmLjlv4Kp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwM2IyMGVmZmNmYWM1MmE5MWYxOTY2MTc5N2Q4NWE1NmM3N2NhNGEyNzQxYWNhMmU5MmQzNGQ5M2E2MmUzOTZmZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwM2IyMGVmZmNmYWM1MmE5MWYxOTY2MTc5N2Q4NWE1NmM3N2NhNGEyNzQxYWNhMmU5MmQzNGQ5M2E2MmUzOTZmZTBhIiwidWlkIjoiNmRlYjU4ZDQ1MmI0OTkxYzA4ZWNlZjZmYTNkYzY3MTkiLCJ1c2VybmFtZSI6ImFuZHJld25pY29sYWxkZSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxNTg1NzUxOCwiaGFzaCI6IjIyYjYyYTM3OGZlMTVkMWNiMGE1NDg4ZGQ0MGYwNDNkOTg3OTBjODQ2MTg0ZGY3ZDhlZjZlZTIxNmEyYTc3ZjY0ZTY4ODdlMjViZmJhODRkNzZmMzRjMTFhNDQwMzU3N2ZhNWM3ZGVmZDliYmIzMGRkYTY2OTUwODZlODQ2OTBmIiwiaGFzaF9tZXRhIjoiNTM0NzFlYjc5YjUxNDg0N2FiZWU4Yjg0YzhkZmQ0YjVmNDY0Y2NmZWIzODEwNTcwNDQyNjk2MmY2YjAyYTBjZSIsInNlcW5vIjoxOTIzMDQ2fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImFuZHJld24uaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zOCJ9LCJjdGltZSI6MTUxNTg1NzU0OCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIwMjAwNTI0NDk3ZmQwNzg0OTQwNWJkOTI4ZjhkODc1Nzk5MzJjODNhMmUxZTRmZGE5M2ViNzQwM2IzMDMzNTQ3Iiwic2Vxbm8iOjYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RApIQzHxSyvhXGN71epSf73AeSwUCE4xBi6ogK3ESRvQgH6gK1cafvzmOEDL0WHdYY/ADSB3daIA9MmMsTvQOZAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKNvUdtwbDkanrfhm0LqFhmAoYutDPAzYPHme5SEZIe2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/andrewnicolalde
+
+==================================================================
