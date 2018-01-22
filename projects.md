@@ -6,4 +6,4 @@ permalink: /projects/
 
 # What I'm Working On
 
-Right now I'm trying my hand at the C++ programming language.
+I've been experimenting with Heroku, Netlify, and various REST APIs.
