@@ -17,7 +17,7 @@ title: Andrew Nicolalde
 email: Andrew.Nicolalde.2016@live.rhul.ac.uk
 description: Andrew Nicolalde, lover of all things computing, Second year Computer Science student at Royal Holloway, University of London
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://andrewn.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: andnicolalde
 github_username:  andrewnicolalde
 linkedin_username: andrewnicolalde
