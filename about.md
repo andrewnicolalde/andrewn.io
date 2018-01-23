@@ -20,7 +20,7 @@ Web Development, Aviation, and without a doubt good food!
 # About This Website
 This website is hosted using Netlify, and was created using Jekyll, as
 countless other websites are. [Its source code is
-available here.](https://github.com/andrewnicolalde/andrewnicolalde.github.io)
+available here.](https://github.com/andrewnicolalde/andrewn.io)
 
 I'll be adding some more to this section soon, so feel free to check up on it!
 
