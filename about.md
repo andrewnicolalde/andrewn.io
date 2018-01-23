@@ -18,7 +18,7 @@ Web Development, Aviation, and without a doubt good food!
 [You can download a PDF version of my résumé here.](https://github.com/andrewnicolalde/pandoc_resume/blob/master/resume.pdf)
 
 # About This Website
-This website is hosted using GitHub Pages, and was created using Jekyll, as
+This website is hosted using Netlify, and was created using Jekyll, as
 countless other websites are. [Its source code is
 available here.](https://github.com/andrewnicolalde/andrewnicolalde.github.io)
 
