@@ -17,6 +17,9 @@
             {% if site.email %}
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {% endif %}
+            {% if site.keybase_username %}
+            <li><a href="https://keybase.io/{{ site.keybase_username }}">Keybase</a></li>
+            {% endif %}
         </ul>
       </div>
 
@@ -37,6 +40,12 @@
           {% if site.linkedin_username %}
           <li>
               {% include icon-linkedin.html username=site.linkedin_username %}
+          </li>
+          {% endif %}
+
+          {% if site.keybase_username %}
+          <li>
+              {% include icon-keybase.html username=site.keybase_username %}
           </li>
           {% endif %}
         </ul>

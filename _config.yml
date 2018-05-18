@@ -14,13 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Andrew Nicolalde
-email: Andrew.Nicolalde.2016@live.rhul.ac.uk
+email: andrew.nicolalde@gmail.com
 description: Andrew Nicolalde, lover of all things computing, Second year Computer Science student at Royal Holloway, University of London
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://andrewn.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: andnicolalde
 github_username:  andrewnicolalde
 linkedin_username: andrewnicolalde
+# keybase_username: andrewnicolalde # Commented out because the logo is too thin to be easily seen
 
 # Build settings
 markdown: kramdown
