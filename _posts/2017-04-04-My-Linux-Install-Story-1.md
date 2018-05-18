@@ -3,7 +3,7 @@ layout: post
 title: My Linux Install Story Pt. 1
 ---
 
-![Arch Logo](../../../resources/andrewn.co/images/ArchLogo.png)
+![Arch Logo](../../../resources/images/ArchLogo.png)
 
 Hello there!
 
