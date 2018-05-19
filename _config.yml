@@ -21,7 +21,7 @@ url: "https://andrewn.io" # the base hostname & protocol for your site, e.g. htt
 twitter_username: andnicolalde
 github_username:  andrewnicolalde
 linkedin_username: andrewnicolalde
-# keybase_username: andrewnicolalde # Commented out because the logo is too thin to be easily seen
+keybase_username: andrewnicolalde # Commented out because the logo is too thin to be easily seen
 
 # Build settings
 markdown: kramdown
