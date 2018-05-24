@@ -27,4 +27,5 @@ I'll be adding some more to this section soon, so feel free to check up on it!
 # Acknowledgments
 
 [LinkedIn icon from SimpleIcon](https://www.flaticon.com/authors/simpleicon)
+
 [Keybase icon from Font Awesome](https://fontawesome.com/icons/keybase?style=brands)
